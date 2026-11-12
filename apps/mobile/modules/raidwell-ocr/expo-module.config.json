@@ -1,0 +1,1 @@
+{"platforms":["apple","android"],"apple":{"modules":["RaidwellOCRModule"]},"android":{"modules":["app.raidwell.ocr.RaidwellOCRModule"]}}
